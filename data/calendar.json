@@ -1,0 +1,2766 @@
+{
+ "updated": "2026-11-13T18:41:07.008Z",
+ "source": "https://calendar.google.com/calendar/ical/c_499267f7da4e582cf1204186abd13af7b0e2369be2d471856f5af64f3a9a0454%40group.calendar.google.com/public/basic.ics",
+ "first": "2025-08-11",
+ "last": "2027-06-18",
+ "days": {
+  "2025-08-11": {
+   "type": "special",
+   "title": "Freshman Connection",
+   "start": "08:30",
+   "end": "12:00"
+  },
+  "2025-08-12": {
+   "type": "special",
+   "title": "Freshman Orientation",
+   "start": "09:40",
+   "end": "14:30"
+  },
+  "2025-08-13": {
+   "type": "special",
+   "title": "First Day of School (Special Schedule)",
+   "start": "08:00",
+   "end": "12:45"
+  },
+  "2025-08-14": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-08-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-08-18": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-08-19": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-08-20": {
+   "type": "letter",
+   "title": "A1 - Emergency Drills",
+   "code": "A1",
+   "label": "Emergency Drills",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2025-08-21": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-08-22": {
+   "type": "letter",
+   "title": "A2",
+   "code": "A2",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2025-08-25": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-08-26": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-08-27": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-08-28": {
+   "type": "letter",
+   "title": "A2 - Activities Fair",
+   "code": "A2",
+   "label": "Activities Fair",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2025-08-29": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-01": {
+   "type": "off",
+   "title": "Labor Day"
+  },
+  "2025-09-02": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-09-03": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-04": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-09-05": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-08": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-09-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-10": {
+   "type": "letter",
+   "title": "L2",
+   "code": "L2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-12": {
+   "type": "letter",
+   "title": "A3",
+   "code": "A3",
+   "start": "08:20",
+   "end": "13:00"
+  },
+  "2025-09-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:35"
+  },
+  "2025-09-16": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-09-17": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-18": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-09-19": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-22": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-09-23": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-24": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-09-25": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-26": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-09-29": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-09-30": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-10-01": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-02": {
+   "type": "letter",
+   "title": "L2 - Feast of Saint Francis of Assisi",
+   "code": "L2",
+   "label": "Feast of Saint Francis of Assisi",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-03": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-06": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-10-07": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-08": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-10-09": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-10": {
+   "type": "special",
+   "title": "Play Day",
+   "start": "08:30",
+   "end": "12:00"
+  },
+  "2025-10-13": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-10-14": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-10-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-16": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-10-17": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-20": {
+   "type": "off",
+   "title": "Flex Day"
+  },
+  "2025-10-21": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-10-22": {
+   "type": "special",
+   "title": "Testing Day",
+   "start": "08:00",
+   "end": "11:30"
+  },
+  "2025-10-23": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-24": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-10-27": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-28": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-10-29": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-10-30": {
+   "type": "letter",
+   "title": "A2 Holy Cross Integrity Prayer Service",
+   "code": "A2",
+   "label": "Holy Cross Integrity Prayer Service",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2025-10-31": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-03": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-11-04": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-05": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-11-06": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-07": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-11-10": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-11": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-11-12": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-13": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-11-14": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-17": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-11-18": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-19": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-11-20": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-11-21": {
+   "type": "letter",
+   "title": "A4",
+   "code": "A4",
+   "start": "08:20",
+   "end": "13:00"
+  },
+  "2025-11-24": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-11-25": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-11-26": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-11-27": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-11-28": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2025-12-01": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-02": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-12-03": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:15",
+   "end": "14:40"
+  },
+  "2025-12-04": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-12-05": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-08": {
+   "type": "letter",
+   "title": "L1 - Feast of the Immaculate Conception",
+   "code": "L1",
+   "label": "Feast of the Immaculate Conception",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-10": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2025-12-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-12": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2025-12-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2025-12-16": {
+   "type": "special",
+   "title": "Special Collab",
+   "start": "09:00",
+   "end": "11:00"
+  },
+  "2025-12-17": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Science I"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "Science II"
+    }
+   ]
+  },
+  "2025-12-18": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Math"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "English 1, AP Psychology, AP African American Studies"
+    }
+   ]
+  },
+  "2025-12-19": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Social Studies"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "World Language"
+    }
+   ]
+  },
+  "2025-12-22": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-23": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-24": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-25": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-26": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-27": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-28": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-29": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-30": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2025-12-31": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-01-01": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-01-02": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-01-03": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-01-04": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-01-05": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2026-01-06": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-01-07": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-08": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-01-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-12": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-01-13": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-14": {
+   "type": "letter",
+   "title": "A1 - Emergency Drills",
+   "code": "A1",
+   "label": "Emergency Drills",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-01-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-16": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-01-19": {
+   "type": "off",
+   "title": "MLK Holiday"
+  },
+  "2026-01-20": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-21": {
+   "type": "letter",
+   "title": "A1 - Interfaith Prayer Service",
+   "code": "A1",
+   "label": "Interfaith Prayer Service",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-01-22": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-23": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-01-26": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-27": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-01-28": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-01-29": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-01-30": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-02": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-02-03": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-04": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-02-05": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-06": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-02-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-10": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-02-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-12": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-02-13": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-16": {
+   "type": "off",
+   "title": "President's Day Holiday"
+  },
+  "2026-02-17": {
+   "type": "off",
+   "title": "President's Day Holiday"
+  },
+  "2026-02-18": {
+   "type": "letter",
+   "title": "L2 - Ash Wednesday Liturgy",
+   "code": "L2",
+   "label": "Ash Wednesday Liturgy",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-19": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-20": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-02-23": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-24": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-02-25": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-02-26": {
+   "type": "letter",
+   "title": "A1",
+   "code": "A1",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-02-27": {
+   "type": "off",
+   "title": "Educator In-Service"
+  },
+  "2026-03-02": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-03": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-03-04": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-05": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-03-06": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-09": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2026-03-10": {
+   "type": "off",
+   "title": "Educator In-Service"
+  },
+  "2026-03-11": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-03-12": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-13": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-03-16": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-17": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-03-18": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-19": {
+   "type": "letter",
+   "title": "L1 - Feast of Saint Joseph",
+   "code": "L1",
+   "label": "Feast of Saint Joseph",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-20": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-23": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-03-24": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-25": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-03-26": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-27": {
+   "type": "letter",
+   "title": "A4",
+   "code": "A4",
+   "start": "08:20",
+   "end": "13:00"
+  },
+  "2026-03-30": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-03-31": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-04-01": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-02": {
+   "type": "off",
+   "title": "Educator In-Service"
+  },
+  "2026-04-03": {
+   "type": "off",
+   "title": "Good Friday"
+  },
+  "2026-04-06": {
+   "type": "off",
+   "title": "Spring Break"
+  },
+  "2026-04-07": {
+   "type": "off",
+   "title": "Spring Break"
+  },
+  "2026-04-08": {
+   "type": "off",
+   "title": "Spring Break"
+  },
+  "2026-04-09": {
+   "type": "off",
+   "title": "Spring Break"
+  },
+  "2026-04-10": {
+   "type": "off",
+   "title": "Spring Break"
+  },
+  "2026-04-13": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-04-14": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-15": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-04-16": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-17": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-04-20": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-21": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-04-22": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-23": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-04-24": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-27": {
+   "type": "off",
+   "title": "Flex Day"
+  },
+  "2026-04-28": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-04-29": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-04-30": {
+   "type": "letter",
+   "title": "A2 Senior Transition Assembly",
+   "code": "A2",
+   "label": "Senior Transition Assembly",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-05-01": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-05-04": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-05-05": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-05-06": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-05-07": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:00",
+   "end": "14:25"
+  },
+  "2026-05-08": {
+   "type": "letter",
+   "title": "A3",
+   "code": "A3",
+   "start": "08:20",
+   "end": "13:00"
+  },
+  "2026-05-11": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-05-12": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-05-13": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-05-14": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-05-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-05-18": {
+   "type": "special",
+   "title": "Special Collaboration"
+  },
+  "2026-05-19": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Math"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "World Language"
+    },
+    {
+     "start": "13:10",
+     "end": "15:10",
+     "label": "Senior AP Makeup"
+    }
+   ]
+  },
+  "2026-05-20": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Science"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "English and Social Studies"
+    }
+   ]
+  },
+  "2026-06-19": {
+   "type": "off",
+   "title": "Juneteenth Holiday"
+  },
+  "2026-07-03": {
+   "type": "off",
+   "title": "Independence Day Holiday"
+  },
+  "2026-08-11": {
+   "type": "special",
+   "title": "Freshman Connection",
+   "start": "08:30",
+   "end": "12:00"
+  },
+  "2026-08-12": {
+   "type": "special",
+   "title": "Freshman Orientation",
+   "start": "09:40",
+   "end": "14:30"
+  },
+  "2026-08-13": {
+   "type": "special",
+   "title": "1st Day of School - Special Schedule",
+   "start": "08:00",
+   "end": "13:45"
+  },
+  "2026-08-14": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-08-17": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-08-18": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-08-19": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-08-20": {
+   "type": "letter",
+   "title": "A1 - Emergency Drill",
+   "code": "A1",
+   "label": "Emergency Drill",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-08-21": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-08-24": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-08-25": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-08-26": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-08-27": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-08-28": {
+   "type": "letter",
+   "title": "A2",
+   "code": "A2",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-08-31": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-01": {
+   "type": "letter",
+   "title": "A1",
+   "code": "A1",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-09-02": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-03": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-09-04": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-07": {
+   "type": "off",
+   "title": "Labor Day"
+  },
+  "2026-09-08": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-09-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-10": {
+   "type": "letter",
+   "title": "L2 - Mass of the Holy Spirit",
+   "code": "L2",
+   "label": "Mass of the Holy Spirit",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-14": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-09-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-16": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-09-17": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-18": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-09-21": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-22": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-09-23": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-24": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-09-25": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-28": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-09-29": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-09-30": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-10-01": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-02": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-10-05": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-06": {
+   "type": "letter",
+   "title": "L1 - Mass of St. Francis",
+   "code": "L1",
+   "label": "Mass of St. Francis",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-07": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-08": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-10-09": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-12": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2026-10-13": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-10-14": {
+   "type": "special",
+   "title": "PreACT 10, PSAT/NMSQT 11, SAT 12"
+  },
+  "2026-10-15": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-16": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-10-19": {
+   "type": "off",
+   "title": "Flex Day"
+  },
+  "2026-10-20": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-21": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-10-22": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-23": {
+   "type": "special",
+   "title": "Play Day - Special Schedule",
+   "start": "08:30",
+   "end": "12:00"
+  },
+  "2026-10-26": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-10-27": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-28": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-10-29": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-10-30": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-11-02": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-03": {
+   "type": "letter",
+   "title": "A1 - Yearbook Picture Day",
+   "code": "A1",
+   "label": "Yearbook Picture Day",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2026-11-04": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-05": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-11-06": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-09": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-11-10": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-11": {
+   "type": "letter",
+   "title": "L2 - Holy Cross Prayer Service",
+   "code": "L2",
+   "label": "Holy Cross Prayer Service",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-12": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-13": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-11-16": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-17": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-11-18": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-19": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-11-20": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-11-23": {
+   "type": "off",
+   "title": "Thanksgiving Break"
+  },
+  "2026-11-24": {
+   "type": "off",
+   "title": "Thanksgiving Break"
+  },
+  "2026-11-25": {
+   "type": "off",
+   "title": "Thanksgiving Break"
+  },
+  "2026-11-26": {
+   "type": "off",
+   "title": "Thanksgiving Break"
+  },
+  "2026-11-27": {
+   "type": "off",
+   "title": "Thanksgiving Break"
+  },
+  "2026-11-30": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-12-01": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-02": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2026-12-03": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-04": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-12-07": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-08": {
+   "type": "letter",
+   "title": "L1 - Mass of Immaculate Conception",
+   "code": "L1",
+   "label": "Mass of Immaculate Conception",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-10": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2026-12-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2026-12-14": {
+   "type": "special",
+   "title": "Special Collaboration"
+  },
+  "2026-12-15": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Science I"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "Science II / Design"
+    }
+   ]
+  },
+  "2026-12-16": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "World Language"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "Social Studies"
+    }
+   ]
+  },
+  "2026-12-17": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": [
+    {
+     "start": "08:20",
+     "end": "10:20",
+     "label": "Math"
+    },
+    {
+     "start": "10:45",
+     "end": "12:45",
+     "label": "English / Social Studies Elective"
+    }
+   ]
+  },
+  "2026-12-18": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-21": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-22": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-23": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-24": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-25": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-28": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-29": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-30": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2026-12-31": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2027-01-01": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2027-01-04": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2027-01-05": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2027-01-06": {
+   "type": "off",
+   "title": "Christmas Break"
+  },
+  "2027-01-07": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-01-08": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-11": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-01-12": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-13": {
+   "type": "letter",
+   "title": "A1 - Emergency Drill",
+   "code": "A1",
+   "label": "Emergency Drill",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2027-01-14": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-15": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-01-18": {
+   "type": "off",
+   "title": "Martin Luther King Jr. Holiday"
+  },
+  "2027-01-19": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-20": {
+   "type": "letter",
+   "title": "A1 - Interfaith Prayer Service",
+   "code": "A1",
+   "label": "Interfaith Prayer Service",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2027-01-21": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-22": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-01-25": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-26": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-01-27": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-01-28": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-01-29": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-01": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-02-02": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-03": {
+   "type": "letter",
+   "title": "A2 - Yearbook Picture Day",
+   "code": "A2",
+   "label": "Yearbook Picture Day",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2027-02-04": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-05": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2027-02-08": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-02-09": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-10": {
+   "type": "letter",
+   "title": "L2 - Ash Wednesday Liturgy",
+   "code": "L2",
+   "label": "Ash Wednesday Liturgy",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-12": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-02-15": {
+   "type": "off",
+   "title": "President's Day"
+  },
+  "2027-02-16": {
+   "type": "off",
+   "title": "President's Day"
+  },
+  "2027-02-17": {
+   "type": "off",
+   "title": "President's Day"
+  },
+  "2027-02-18": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-19": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-02-22": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-23": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-02-24": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-02-25": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-02-26": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-01": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-03-02": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-03": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-03-04": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-05": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-03-08": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2027-03-09": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2027-03-10": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-11": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-03-12": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-15": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-03-16": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-17": {
+   "type": "letter",
+   "title": "L2 - Mass of St. Joseph",
+   "code": "L2",
+   "label": "Mass of St. Joseph",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-18": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-19": {
+   "type": "letter",
+   "title": "A1",
+   "code": "A1",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2027-03-22": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-23": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-03-24": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-03-25": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-03-26": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-03-29": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-03-30": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-03-31": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-04-01": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-04-02": {
+   "type": "off",
+   "title": "Easter Break"
+  },
+  "2027-04-05": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-04-06": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-07": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-04-08": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-09": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-04-12": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-13": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-04-14": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-15": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-04-16": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-19": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2027-04-20": {
+   "type": "off",
+   "title": "No School"
+  },
+  "2027-04-21": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-04-22": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-23": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-04-26": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-27": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-04-28": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-04-29": {
+   "type": "letter",
+   "title": "A1",
+   "code": "A1",
+   "start": "08:20",
+   "end": "14:30"
+  },
+  "2027-04-30": {
+   "type": "off",
+   "title": "Flex Day"
+  },
+  "2027-05-03": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-04": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-05-05": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-06": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-05-07": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-10": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-05-11": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-12": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-05-13": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-14": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-05-17": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-18": {
+   "type": "letter",
+   "title": "G1",
+   "code": "G1",
+   "start": "09:00",
+   "end": "14:30"
+  },
+  "2027-05-19": {
+   "type": "letter",
+   "title": "B1",
+   "code": "B1",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-20": {
+   "type": "letter",
+   "title": "G2",
+   "code": "G2",
+   "start": "09:20",
+   "end": "14:30"
+  },
+  "2027-05-21": {
+   "type": "letter",
+   "title": "B2",
+   "code": "B2",
+   "start": "08:05",
+   "end": "14:30"
+  },
+  "2027-05-24": {
+   "type": "special",
+   "title": "Special Collaboration"
+  },
+  "2027-05-25": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": []
+  },
+  "2027-05-26": {
+   "type": "finals",
+   "title": "Final Exams",
+   "blocks": []
+  },
+  "2027-05-31": {
+   "type": "off",
+   "title": "Memorial Day Holiday"
+  },
+  "2027-06-18": {
+   "type": "off",
+   "title": "Juneteenth Holiday"
+  }
+ }
+}

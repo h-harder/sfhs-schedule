@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>SFHS Schedule</title>
+  <meta name="description" content="A student-made daily schedule for Saint Francis High School: live class countdowns, block-day calendar, homework, events and to-dos.">
+  <meta name="theme-color" content="#3b2110">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-180.png">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script>
+    // Apply the saved theme before first paint.
+    try {
+      var t = (JSON.parse(localStorage.getItem('sfhs-schedule:v1') || '{}').settings || {}).theme;
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <div class="app">
+    <header class="nav">
+      <a class="brand" href="#today">
+        <svg class="brand__mark" viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10"/><path d="M11 13h18M11 20h18M11 27h11"/></svg>
+        <span><strong>SFHS Schedule</strong><small>Saint Francis High School</small></span>
+      </a>
+      <nav id="nav" aria-label="Main"></nav>
+    </header>
+    <main id="view" tabindex="-1"><p class="loading">Loading your day…</p></main>
+  </div>
+  <dialog id="dlg"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:2rem">SFHS Schedule needs JavaScript turned on.</p></noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
