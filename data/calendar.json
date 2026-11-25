@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:41:07.008Z",
+ "updated": "2026-11-25T05:29:12.743Z",
  "source": "https://calendar.google.com/calendar/ical/c_499267f7da4e582cf1204186abd13af7b0e2369be2d471856f5af64f3a9a0454%40group.calendar.google.com/public/basic.ics",
  "first": "2025-08-11",
  "last": "2027-06-18",
@@ -2112,7 +2112,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-08": {
    "type": "letter",
@@ -2126,7 +2129,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-12": {
    "type": "letter",
@@ -2155,7 +2161,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-18": {
    "type": "off",
@@ -2188,7 +2197,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-25": {
    "type": "letter",
@@ -2202,7 +2214,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-27": {
    "type": "letter",
@@ -2216,7 +2231,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-01-29": {
    "type": "letter",
@@ -2230,7 +2248,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-02": {
    "type": "letter",
@@ -2263,7 +2284,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-09": {
    "type": "letter",
@@ -2292,7 +2316,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-15": {
    "type": "off",
@@ -2318,7 +2345,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-22": {
    "type": "letter",
@@ -2332,7 +2362,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-24": {
    "type": "letter",
@@ -2346,7 +2379,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-02-26": {
    "type": "letter",
@@ -2360,7 +2396,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-02": {
    "type": "letter",
@@ -2374,7 +2413,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-04": {
    "type": "letter",
@@ -2388,7 +2430,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-08": {
    "type": "off",
@@ -2410,7 +2455,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-12": {
    "type": "letter",
@@ -2424,7 +2472,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-16": {
    "type": "letter",
@@ -2467,7 +2518,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-03-24": {
    "type": "letter",
@@ -2509,7 +2563,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-06": {
    "type": "letter",
@@ -2523,7 +2580,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-08": {
    "type": "letter",
@@ -2537,7 +2597,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-12": {
    "type": "letter",
@@ -2551,7 +2614,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-14": {
    "type": "letter",
@@ -2565,7 +2631,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-16": {
    "type": "letter",
@@ -2587,7 +2656,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-22": {
    "type": "letter",
@@ -2601,7 +2673,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-26": {
    "type": "letter",
@@ -2615,7 +2690,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-04-28": {
    "type": "letter",
@@ -2647,7 +2725,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-05": {
    "type": "letter",
@@ -2661,7 +2742,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-07": {
    "type": "letter",
@@ -2675,7 +2759,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-11": {
    "type": "letter",
@@ -2689,7 +2776,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-13": {
    "type": "letter",
@@ -2703,7 +2793,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-17": {
    "type": "letter",
@@ -2717,7 +2810,10 @@
    "title": "G1",
    "code": "G1",
    "start": "09:00",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-19": {
    "type": "letter",
@@ -2731,7 +2827,10 @@
    "title": "G2",
    "code": "G2",
    "start": "09:20",
-   "end": "14:30"
+   "end": "14:30",
+   "also": [
+    "Collaboration"
+   ]
   },
   "2027-05-21": {
    "type": "letter",
